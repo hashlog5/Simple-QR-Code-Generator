@@ -1,0 +1,1 @@
+This repo is from the [Create A Simple JavaScript App to Generate QR Codes](https://youtu.be/qNiUlml9MDk) YouTube tutorial by [Brad Traversy](https://www.youtube.com/c/TraversyMedia) [@bradtraversy](https://github.com/bradtraversy).
